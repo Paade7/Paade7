@@ -1,16 +1,28 @@
-## Hi there 👋
+## 💫 About Me:
 
-<!--
-**Paade7/Paade7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 I'm a **second-year BCA student** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ## 🛠️ Tech Stack
+
+- HTML, CSS, JavaScript, jQuery
+- Node.js, Express.js
+- Java, C
+  
+- 🌱 Currently learning: React.js and PostgreSQL
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paade7&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paade7&layout=compact&theme=tokyonight)
+
+## 🏆 Achievements & Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Paade7&theme=darkhub)
+
+
+---
+
