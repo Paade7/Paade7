@@ -9,8 +9,8 @@
 - HTML, CSS, JavaScript, jQuery
 - Node.js, Express.js
 - Java, C
-  
-- 🌱 Currently learning: React.js and PostgreSQL
+
+🌱 Currently learning: React.js and PostgreSQL
 
 
 ## 📊 GitHub Stats
@@ -19,9 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paade7&layout=compact&theme=tokyonight)
 
-## 🏆 Achievements & Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Paade7&theme=darkhub)
 
 
 ---
